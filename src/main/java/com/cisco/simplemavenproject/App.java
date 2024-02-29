@@ -11,6 +11,6 @@ public class App
         System.out.println( "Welcome to the World of Jenkins!" );
         System.out.println( "Hello From my simple project" );
         System.out.println("Update the file");
-        HelloWorld.print();
+        System.out.println("Update 2");
     }
 }
